@@ -71,4 +71,4 @@ I. Future Enhancements
   5. ERP integration
   6. Multi-dealership management
 
-Click Commit changes
+.
